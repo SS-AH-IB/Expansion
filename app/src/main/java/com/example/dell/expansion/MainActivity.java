@@ -319,10 +319,7 @@ public class MainActivity extends AppCompatActivity {
             player_toggle=false;
             player_select(player_toggle);
         }
-        else if (player_toggle==false){
-            player_toggle=true;
-            player_select(player_toggle);
-        }
+        int a=0;
     }
 
     public void player_select(Boolean player){
